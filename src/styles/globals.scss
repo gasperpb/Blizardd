@@ -19,6 +19,9 @@ html {
 
   --primary: #373D4F;
   --secondary: #9098AE;
+  --tertiary: #E5E5E5;
+  --links: #00aeff;
+
 }
 
 body {
@@ -27,7 +30,7 @@ body {
 
 body, button, textarea, input {
   color: var(--primary);
-  font: 400 1rem "Roboto", sans-serif;
+  font: 400 1rem "Poppins", sans-serif;
 }
 
 a {
